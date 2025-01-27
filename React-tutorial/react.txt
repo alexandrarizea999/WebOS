@@ -1,0 +1,4 @@
+- Allows us to easily create Single Page Apps (SPA)
+- Components contain:
+1. templates
+2. logic
