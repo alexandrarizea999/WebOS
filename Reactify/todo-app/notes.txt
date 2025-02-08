@@ -1,0 +1,5 @@
+- A components needs to start with a capital letter. 
+- We have to export the functions as exports. 
+- It's good to have each component server one purpose. 
+- It will help me modify things easier. 
+- Every component can return only one container.
